@@ -1,1 +1,5 @@
 # Red-Black_Tree
+
+Esse projeto é uma aplicação prática para reestudar e reforçar os conceitos de padronização e organização em desenvolvimento de software, usando como base a implementação de uma **árvore rubro-negra** em Java. Com ele, eu posso explorar como estruturar um código modular, dividindo funcionalidades em arquivos distintos para manter a clareza e facilitar a manutenção.
+
+A árvore rubro-negra, sendo uma estrutura de dados balanceada, me ajuda a revisar algoritmos de inserção, remoção e busca, enquanto aplico boas práticas de programação. O sistema funciona como um pequeno "organismo de busca", permitindo adicionar, buscar e organizar números de forma eficiente, ideal para reforçar conceitos como balanceamento dinâmico e encapsulamento. Além disso, ele também me ajuda a pensar em como escalar projetos maiores, garantindo que cada componente tenha sua responsabilidade bem definida.
